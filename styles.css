@@ -17,6 +17,7 @@ body {
     width: 100%;
     max-width: 1280px;
     margin: 0 auto;
+    
 }
 
 .row__narrow {
@@ -764,7 +765,7 @@ PRICING
 }
 
 .plan__price {
-    font-size: 48px;
+    font-size:48px;
     margin: 4px 0;
 }
 
@@ -892,6 +893,7 @@ TESTIMONIALS
 .testimonials__img,
 .testimonials__description {
     width: 50%;
+    margin-right: 72px;
     
 }
 
